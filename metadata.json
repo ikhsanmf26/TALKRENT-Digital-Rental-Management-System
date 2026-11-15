@@ -1,0 +1,6 @@
+{
+  "name": "TALKRENT Digital Rental Management System",
+  "description": "Sistem manajemen operasional rental Handy Talkie (HT) WLN Kabupaten Tasikmalaya - Your Communication Partner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
